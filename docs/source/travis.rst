@@ -11,4 +11,7 @@ click Activate respository.
 
 Now when you upload it should trigger a build of the documents.
 
+Once you have a sucessful build your documents will be at
+https://username.github.io/repo-name
+
 
