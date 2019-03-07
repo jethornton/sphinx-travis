@@ -10,4 +10,7 @@ directory and run sphinx-quickstart. The one thing I changed is shown below.
 
     > Separate source and build directories (y/n) [n]: y
 
+Open the config.py file and find `html_static_path = ['_static']` and change it
+to ``html_static_path = []``.
+
 
