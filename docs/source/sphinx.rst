@@ -10,8 +10,8 @@ directory and run sphinx-quickstart. The one thing I changed is shown below.
 
     > Separate source and build directories (y/n) [n]: y
     > todo: write "todo" entries that can be shown or hidden on build (y/n) [n]: y
+    > githubpages: create .nojekyll file to publish the document on GitHub pages (y/n) [n]: y
     > Create Windows command file? (y/n) [y]: n
-
 
 
 Open the config.py file and find `html_static_path = ['_static']` and change it

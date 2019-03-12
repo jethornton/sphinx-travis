@@ -6,6 +6,9 @@
 Sphinx Travis-ci GitHub Documents
 =================================
 
+A short tutorial on how to publish Sphinx documents on GitHub and build them
+automaticly with Travis-ci each time you push to GitHub.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
