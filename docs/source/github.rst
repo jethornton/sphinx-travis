@@ -36,3 +36,5 @@ Don't forget the leading dot on the file name!
 		local_dir: docs/html
 		on:
 			branch: master
+
+Make sure your default branch is named master.
